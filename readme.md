@@ -3,7 +3,7 @@
 ---
 
 * 项目类
-  * [Huanflower](https://github.com/Huanflower/MaoXianDao) 冒险岛2网站制作  分工合作的项目 index文件夹是首页 second文件时首页前篇 还未完成，待完善.....
+  * (https://github.com/Huanflower/MaoXianDao) 冒险岛2网站制作  分工合作的项目 index文件夹是首页 second文件时首页前篇 还未完成，待完善.....
 
   * (https://github.com/Huanflower/baixiu-pages-master) 阿里百秀项目静态页面模仿 
 
